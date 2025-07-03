@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A Passionate Developer Trying to learn new things.</h3>
 
-- 🌱 I’m currently learning **H**
+- 🌱 I’m currently learning **Front-end and Backend Development**
 
 - 💬 Ask me about **react, C, CSS, HTML, Laravel.**
 
